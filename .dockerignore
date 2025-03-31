@@ -1,0 +1,20 @@
+docs/
+
+*.md
+
+.idea
+.vscode
+.code
+
+**/.DS_Store
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+vendor
