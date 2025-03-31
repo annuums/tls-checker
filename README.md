@@ -39,13 +39,21 @@
 | `EMAIL_SMTP_PASS`  | SMTP 인증 비밀번호                                                                   | `yourpassword`            | 선택<br>이메일 전송 시 필수   |
 ---
 
-## 🏞️ Slack Message Examples
+## 🏞️ Examples
 
-- blocks 메시지 예시
-![blocks_example](./docs/image/slack/blocks.png)
+### 슬랙
 
-- attachments 메시지 예시 (색상값: #ccc)
-![attachmentss_example](./docs/image/slack/attachments.png)
+- Blocks 메시지 예시
+  ![blocks_example](./docs/image/slack/blocks.png)
+
+- Attachments 메시지 예시 (color: #ccc)
+  ![attachmentss_example](./docs/image/slack/attachments.png)
+
+### 이메일
+
+- 지메일 SMTP 테스트 예시
+
+![email_example](./docs/image/email/example.png)
 
 ---
 

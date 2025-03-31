@@ -35,13 +35,25 @@
 | `EMAIL_SMTP_PASS`      | SMTP authentication password                                                | `yourpassword`              | Optional (Required if using Email) |
 ---
 
-## 🏞️ Slack Message Examples
+## 🏞️ Examples
+
+### Slack
 
 - blocks message example
 ![blocks_example](./image/slack/blocks.png)
 
 - attachments message example (color: #ccc)
 ![attachmentss_example](./image/slack/attachments.png)
+
+### Email
+
+- email tested using gmail smtp
+
+![email_example](./image/email/example.png)
+
+---
+
+## 
 
 ---
 
