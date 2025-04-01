@@ -10,8 +10,7 @@
 
 ## ✅ Features
 - Checks the TLS certificate of specified domains.
-- Sends Slack alerts when the remaining validity is below the configured threshold.
-- Supports both Slack `block` and `attachment` message formats.
+- Sends emails / Slack messages when the remaining validity is below the configured threshold.
 
 ---
 
