@@ -6,7 +6,7 @@
 
 **TLS 인증서 만료일을 감지하고, Slack으로 알림을 전송하는 도구입니다.**
 
-- 2025년 6월 4일 종료되는 Lets Encrypt 인증서 만료 시스템을 대체하고자 본 리포지터리를 생성했습니다.
+- 2025년 6월 4일 종료되는 Lets Encrypt 인증서 이메일 알림 기능을 대체하고자 본 리포지터리를 생성했습니다.
 - 해당 리포지터리를 통해 DevOps/Platform Engineer 혹은 관계자가 직접 관리하는 TLS 시스템을 만들 수 있기를 기대합니다.
 - 해당 시스템은 Kubernetes CronJob, AWS Lambda, GCP Cloud Run Job 등 Behaviour Job으로 구성하는 것을 권장합니다.
 

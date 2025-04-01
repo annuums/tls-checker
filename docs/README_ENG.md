@@ -2,7 +2,7 @@
 
 **A tool that checks TLS certificate expiration dates and sends alerts.**
 
-- This repository was created to build a system that can replace the Let's Encrypt certificate expiration system ending on June 4, 2025.
+- This repository was created to build a system that can replace the Let's Encrypt's certificate expiration notification system ending on June 4, 2025.
 - Through this repository, we hope to enable DevOps/Platform Engineers to directly manage their own TLS systems.
 - It is recommended to operate tls-checker on a daily schedule using platforms like Kubernetes CronJob, AWS Lambda, or GCP Cloud Run Job.
 
